@@ -30,7 +30,7 @@ public class AdditionTest {
 
     @Parameters
     public static Collection<String[]> addedNumbers() {
-        return Arrays.asList(new String[][] { { "AdditionTest1", "3", "8", "2" }, { "AdditionTest2", "5", "2", "3" },
+        return Arrays.asList(new String[][] { { "AdditionTest1", "10", "8", "2" }, { "AdditionTest2", "5", "2", "3" },
                 { "AdditionTest3", "7", "3", "4" }, { "AdditionTest4", "9", "4", "5" }, });
     }
 
